@@ -4,7 +4,7 @@ Enjoy PurrfectRecall, a memory game featuring adorable cat photos. Challenge you
 
 ## How to Play
 
-1. Access PurrfectRecall: [Play Now](https://yosefyan.github.io/purrfectrecall).
+1. Access PurrfectRecall: [Play Now](https://yosefyan.github.io/PurrfectRecall).
 
 2. Choose the number of cards (2-100).
 
